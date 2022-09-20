@@ -8,9 +8,9 @@ Projeto construído no workshop Next Level Week da Rocketseat.
 
 ## Tecnologias usadas:
 
-  *HTML
-  *CSS
-  *Git e GitHub
+  * HTML
+  * CSS
+  * Git e GitHub
 
 ## Notas:
 
